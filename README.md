@@ -1,4 +1,4 @@
-# Geli-mi-Hesap-Makinesi
+# Hesap-Makinesi
 Python ile geliştirilmiş, bilimsel fonksiyonları ve işlem geçmişi takibini destekleyen, modüler yapıda gelişmiş hesap makinesi uygulaması.
 
 🧠 Kodun Teknik Analizi ve Çalışma Mantığı
